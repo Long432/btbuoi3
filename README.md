@@ -23,8 +23,6 @@ Giao diện ứng dụng bao gồm 2 phần chính:
   * Tuân thủ chuẩn **Touch Target Size (48dp)** cho ô nhập liệu.
   * Tối ưu hóa **Color Contrast Ratio** giúp giao diện dễ nhìn.
 
-## 🚀 Cách chạy ứng dụng
+## Link video
 
-1. Clone repository về máy:
-   ```bash
-   git clone <URL_REPOSITORY_CUA_BAN>
+* **Link video: https://drive.google.com/file/d/11yzoHo0LHqEQNZwz8T_-Y43kevymSqQY/view?usp=sharing
