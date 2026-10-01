@@ -25,4 +25,4 @@ Giao diện ứng dụng bao gồm 2 phần chính:
 
 ## Link video
 
-* **Link video: https://drive.google.com/file/d/11yzoHo0LHqEQNZwz8T_-Y43kevymSqQY/view?usp=sharing
+* **Link video: https://drive.google.com/file/d/1M2NfD485ZoAUxWFtGy7o7zN26g0T9rFY/view?usp=sharing
